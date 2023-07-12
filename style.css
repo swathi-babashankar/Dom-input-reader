@@ -1,0 +1,26 @@
+
+
+#input{
+    margin-left: 500px;
+    margin-top: 300px;
+    width: 300px;
+    height: 30px;
+}
+
+
+.btn{
+    width: 100px;
+    height: 37px;
+    background-color: #f5e506;
+    color: #333e05;
+    font-size: 14px;
+}
+
+#text-box{
+    width: 410px;
+    height: 200px;
+    background-color: #f5e506;
+    margin-left: 500px;
+    border: 2px solid #000000;
+}
+
